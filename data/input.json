@@ -1,0 +1,6 @@
+{
+  "deadline_seconds": 0.02,
+  "simulated_delay_seconds": 0.05,
+  "cached_answer": "Cached policy: verify the latest source before use.",
+  "cached_at": "2026-01-15"
+}

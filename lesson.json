@@ -1,0 +1,16 @@
+{
+  "lesson": 96,
+  "title": "Latency-Aware Agent Architecture",
+  "application": "Deadline and Honest Fallback",
+  "purpose": "Apply a deadline to a slow stage, cancel the awaited task and label a cached fallback with its age.",
+  "exercise": "Increase deadline_seconds above the simulated delay and compare the fresh and fallback paths. Never label cached data as freshly verified.",
+  "source_topics": [
+    "00-Infografía sobre arquitectura de agentes consciente de la latencia.png",
+    "01-Where-Agent-Latency-Comes-From.png",
+    "02-Set-a-Latency-Target.png",
+    "03-The-Latency-Aware-Workflow.png",
+    "04-Timeout-with-a-Fallback.png",
+    "05-Techniques-to-Reduce-Latency.png",
+    "06-Latency-Pitfalls-to-Avoid.png"
+  ]
+}

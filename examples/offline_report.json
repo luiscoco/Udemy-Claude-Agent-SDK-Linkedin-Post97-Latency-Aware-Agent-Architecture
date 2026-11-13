@@ -1,0 +1,13 @@
+{
+  "lesson": 96,
+  "application": "Deadline and Honest Fallback",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "source": "cached_fallback",
+    "answer": "Cached policy: verify the latest source before use.",
+    "cached_at": "2026-01-15",
+    "timed_out": true
+  },
+  "measured_cost_usd": null
+}
